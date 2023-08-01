@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Shellcodevnew</h1>
-  <h3>Shellcodevnew is a more stable tool designed to help and automate the process of shellcode creation.</h3>
+  <h3>Shellcodevnew is a tool designed to help and automate the process of shellcode creation.</h3>
 </div>
 
 ### Features
